@@ -18,6 +18,10 @@
                 </ul>
             </nav>
         </header>
-
+        <div id="info-block">
+            Hello, I'm awesome. Pls hire me. Thanks.
+        </div>
+        <div id="feature-slider"></div>
+        <div id="gallery"></div>
     </body>
 </html>
