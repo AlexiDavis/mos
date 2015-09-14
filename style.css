@@ -1,3 +1,13 @@
 /* Lato|Candal|Roboto+Slab */
+/*
+red #bb0000
+l brn #ddccbb
+brn #aa7744
+dk brn #553311
+wht #efefef
+*/
 *{box-sizing: border-box;}
-body{background:url('img/norwegian_rose.png') #eee;color:#111;width:900px;max-width:95%;margin:5px auto 0;font:16pt/18pt Lato,Verdana,sans-serif;}
+body{background:url('img/norwegian_rose.png') #efefef;color:#221;width:900px;max-width:95%;margin:5px auto 0;font:16pt/18pt Lato,Verdana,sans-serif;}
+h1,h4{font-family:Candal,'Arial Black',serif;line-height:1.1em;}
+h2,h3{font-family: 'Roboto Slab',Georgia,serif;}
+a{color:#b00;}
