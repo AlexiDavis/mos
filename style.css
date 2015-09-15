@@ -11,6 +11,8 @@ body{background:url('img/norwegian_rose.png') #efefef;color:#221;width:900px;max
 h1,h4{font-family:Candal,'Arial Black',serif;line-height:1.1em;}
 h2,h3{font-family: 'Roboto Slab',Georgia,serif;}
 a{color:#b00;}
-header{text-align: center;width:90%;margin:0 auto;}
+header{text-align: center;width:100%;margin:0 auto;}
 header img{display:inline-block;vertical-align: middle;border-radius:50%;}
 header h1{display:inline-block;vertical-align: middle;}
+header nav ul{list-style: none;padding:0;}
+header nav ul li{display:inline;padding:0 1em;}
