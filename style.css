@@ -16,7 +16,8 @@ header img{display:inline-block;vertical-align: middle;border-radius:50%;}
 header h1{display:inline-block;vertical-align: middle;}
 header nav ul{list-style: none;padding:0;}
 header nav ul li{display:inline;padding:0 1em;}
-#info-block{width:80%;margin:0 auto;background:#efefef;}
-#info-block div{display:inline-block;vertical-align: top;padding:0 10px;width:45%;}
-#info-block div:first-of-type h4{text-align: right;}
-#info-block div:first -of-type h4 a{text-decoration: none;border:1px solid #b00;}
+#info-block{width:85%;margin:0 auto;background:#efefef;}
+#info-block div{display:inline-block;vertical-align: top;padding:0 10px;width:49%;}
+#info-block div:first-of-type h4{text-align: right;padding:0;}
+#info-block div:first-of-type h4 a{text-decoration: none;border:2px solid #b00;padding:2.5px 7.5px 5px 5px;}
+#info-block div:first-of-type{padding-right:15px;border-right:1px solid #ddd;}
