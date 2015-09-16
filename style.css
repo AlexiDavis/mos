@@ -29,3 +29,5 @@ header nav ul li{display:inline;padding:0 1em;}
 #feature-slider>a{display:block;position:absolute;top:160px;text-decoration:none;font-size:2em;background: #efefef;padding:5px;border-radius: 25%;z-index: -1;}
 #feature-slider>a:first-of-type{left:-25px;}
 #feature-slider>a:last-of-type{right:-25px;}
+#gallery{width:102.75%;margin:0 auto;}
+#gallery img{max-width: 15%;}
