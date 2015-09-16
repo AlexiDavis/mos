@@ -21,3 +21,11 @@ header nav ul li{display:inline;padding:0 1em;}
 #info-block div:first-of-type h4{text-align: right;padding:0;}
 #info-block div:first-of-type h4 a{text-decoration: none;border:2px solid #b00;padding:2.5px 7.5px 5px 5px;}
 #info-block div:first-of-type{padding-right:15px;border-right:1px solid #ddd;}
+#feature-slider{width:85%;margin:0 auto;background:url('http://placeskull.com/400/350/003300/') no-repeat #efefef;margin-top:2em;position:relative;border-radius: 5px;}
+#feature-slider div{height:350px;padding:10px 15px 0 415px;}
+#feature-slider div h2{text-align: center;}
+#feature-slider div h4{text-align: right;padding:0;}
+#feature-slider div h4 a{text-decoration: none;border:2px solid #b00;padding:2.5px 7.5px 5px 5px;}
+#feature-slider>a{display:block;position:absolute;top:160px;text-decoration:none;font-size:2em;background: #efefef;padding:5px;border-radius: 25%;z-index: -1;}
+#feature-slider>a:first-of-type{left:-25px;}
+#feature-slider>a:last-of-type{right:-25px;}
